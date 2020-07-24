@@ -3,4 +3,5 @@
 
  Repositório criado acompanhando aula gravada!
  
-Aula 7 - ok
+**Aula 7 - ok**
+Aula 8 - ok
